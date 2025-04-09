@@ -4,7 +4,7 @@ import './css/navbar.css'
 import Navbar from './component/Navbar';
 
 import './css/section1.css'
-import Section1 from './component/section1';
+import Section1 from './component/Section1';
 
 import './css/section2.css'
 import Section2 from './component/Section2';
